@@ -19,10 +19,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 
-## Divide and Conquer
-|  |
-| ------- |
-| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+
 
 ## Sliding Window
 |  |
@@ -35,6 +32,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/Maverick-841/leetcode-solutions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Maverick-841/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/Maverick-841/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -55,6 +53,7 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Maverick-841/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/Maverick-841/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Sorting
 |  |
