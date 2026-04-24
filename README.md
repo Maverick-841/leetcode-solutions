@@ -20,6 +20,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2615-sum-of-distances](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2615-sum-of-distances) |
 ## Dynamic Programming
@@ -72,6 +73,7 @@
 | [0141-linked-list-cycle](https://github.com/Maverick-841/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/Maverick-841/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0652-find-duplicate-subtrees](https://github.com/Maverick-841/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2615-sum-of-distances](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2615-sum-of-distances) |
 ## Heap (Priority Queue)
 |  |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Maverick-841/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2833-furthest-point-from-origin](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 ## Two Pointers
 |  |
@@ -101,6 +104,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2833-furthest-point-from-origin](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 ## Math
 |  |
@@ -128,6 +132,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Maverick-841/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Matrix
 |  |
 | ------- |
