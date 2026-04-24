@@ -41,6 +41,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Maverick-841/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Maverick-841/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0738-monotone-increasing-digits](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0738-monotone-increasing-digits) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Sorting
 |  |
@@ -103,4 +104,8 @@
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
+## Math
+|  |
+| ------- |
+| [0738-monotone-increasing-digits](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0738-monotone-increasing-digits) |
 <!---LeetCode Topics End-->
