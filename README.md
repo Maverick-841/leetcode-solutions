@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0287-find-the-duplicate-number](https://github.com/Maverick-841/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Maverick-841/leetcode-solutions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Maverick-841/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Maverick-841/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/Maverick-841/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Maverick-841/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Maverick-841/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
 |  |
@@ -103,4 +105,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Maverick-841/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Maverick-841/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Maverick-841/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Maverick-841/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
