@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/Maverick-841/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0287-find-the-duplicate-number](https://github.com/Maverick-841/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Maverick-841/leetcode-solutions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Maverick-841/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
@@ -73,6 +74,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Maverick-841/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Maverick-841/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/Maverick-841/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0652-find-duplicate-subtrees](https://github.com/Maverick-841/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Maverick-841/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Maverick-841/leetcode-solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
