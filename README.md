@@ -30,6 +30,7 @@
 | [0322-coin-change](https://github.com/Maverick-841/leetcode-solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Maverick-841/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | ------- |
 | [0738-monotone-increasing-digits](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0738-monotone-increasing-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Stack
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Maverick-841/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1720-decode-xored-array) |
 ## Matrix
@@ -145,4 +148,12 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Maverick-841/leetcode-solutions/tree/master/0039-combination-sum) |
+## Recursion
+|  |
+| ------- |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+## Memoization
+|  |
+| ------- |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
