@@ -111,6 +111,7 @@
 |  |
 | ------- |
 | [0738-monotone-increasing-digits](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0738-monotone-increasing-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Stack
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Maverick-841/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1720-decode-xored-array) |
 ## Matrix
