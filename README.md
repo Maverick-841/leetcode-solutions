@@ -22,6 +22,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1720-decode-xored-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2615-sum-of-distances](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2615-sum-of-distances) |
 ## Dynamic Programming
@@ -114,6 +115,7 @@
 | [0738-monotone-increasing-digits](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0738-monotone-increasing-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Stack
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1720-decode-xored-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
 | ------- |
@@ -148,6 +151,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Maverick-841/leetcode-solutions/tree/master/0039-combination-sum) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
 | ------- |
@@ -156,4 +160,12 @@
 |  |
 | ------- |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
