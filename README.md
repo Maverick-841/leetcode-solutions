@@ -20,6 +20,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Maverick-841/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Maverick-841/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Maverick-841/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2615-sum-of-distances](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Maverick-841/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -54,6 +55,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Maverick-841/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Maverick-841/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Maverick-841/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Maverick-841/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Maverick-841/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Quickselect
 |  |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Maverick-841/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Maverick-841/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Maverick-841/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Binary Search
 |  |
@@ -147,4 +150,5 @@
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Maverick-841/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Maverick-841/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Maverick-841/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
