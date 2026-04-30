@@ -25,12 +25,14 @@
 | [2615-sum-of-distances](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Maverick-841/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Maverick-841/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Maverick-841/leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Maverick-841/leetcode-solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Maverick-841/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Maverick-841/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Maverick-841/leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -155,4 +157,5 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Maverick-841/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Maverick-841/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Maverick-841/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Maverick-841/leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 <!---LeetCode Topics End-->
